@@ -3,7 +3,7 @@
 ## Commands Used
 
 ### pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-### pip install spacy
+### pip install -U spacy
 ### pip install pdfplumber
 ### pip install pdfminer
 ### pip install pdfminer.six
